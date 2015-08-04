@@ -1,0 +1,6 @@
+framework module MixKit {
+  umbrella header "Pods-MixKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

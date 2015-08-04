@@ -1,0 +1,18 @@
+{
+  "name": "MixKit",
+  "version": "1.0.0",
+  "summary": "MixKit for iOS",
+  "homepage": "https://github.com/QiuZhiFei/MixKit",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "authors": {
+    "Douban iOS Developers": "ios-dev@douban.com"
+  },
+  "source": {
+    "git": "https://github.com/QiuZhiFei/MixKit.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "MixKit/*.{h,m,swift}",
+  "requires_arc": true
+}

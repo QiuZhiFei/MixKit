@@ -1,0 +1,14 @@
+PODS:
+  - MixKit (1.0.0)
+
+DEPENDENCIES:
+  - MixKit (from `../MixKit/MixKit.podspec`)
+
+EXTERNAL SOURCES:
+  MixKit:
+    :path: ../MixKit/MixKit.podspec
+
+SPEC CHECKSUMS:
+  MixKit: 8f65f81cca629b882a80d3cdb22a3a1ce92229c1
+
+COCOAPODS: 0.37.2

@@ -1,0 +1,9 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+platform :ios, '7.0'
+inhibit_all_warnings!
+use_frameworks!
+
+pod 'MixKit',
+    #:git => 'https://github.com/QiuZhiFei/MixKit.git', :commit => '2ffaccbda31cccb91c8f2f747744c3484ca40f06'
+    :path => '../MixKit/MixKit.podspec'
